@@ -10,6 +10,7 @@ eleves = [
     {"prenom": "Nora", "nom": "Boukal", "github": "loic-prof"},
     {"prenom": "Dhiaeddine", "nom": "Hafsaoui", "github": "dhiaeddinehafsaoui-create", "groupe": "Groupe 4"},
     {"prenom": "jeff", "nom": "Ngoy", "github": "Jeff-victor"},
+    {"prenom": "Naima", "nom": "ARY", "github": "Soul4-uni", "groupe": "Gr3"},
 ]
     
 TEMPLATE = """
